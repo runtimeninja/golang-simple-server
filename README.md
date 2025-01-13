@@ -1,4 +1,5 @@
-Golang Simple Server
+**Golang Simple Server**
+
 This repository contains a simple server implemented in Go (Golang). Follow the instructions below to get started.
 
 Prerequisites
